@@ -1,0 +1,53 @@
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ conv1d (Conv1D)             (None, 165, 32)           512       
+                                                                 
+ max_pooling1d (MaxPooling1D  (None, 165, 32)          0         
+ )                                                               
+                                                                 
+ conv1d_1 (Conv1D)           (None, 165, 64)           10304     
+                                                                 
+ max_pooling1d_1 (MaxPooling  (None, 165, 64)          0         
+ 1D)                                                             
+                                                                 
+ flatten (Flatten)           (None, 10560)             0         
+                                                                 
+ dense (Dense)               (None, 512)               5407232   
+                                                                 
+ dense_1 (Dense)             (None, 10)                5130      
+                                                                 
+ dense_2 (Dense)             (None, 2)                 22        
+                                                                 
+=================================================================
+Total params: 5,423,200
+Trainable params: 5,423,200
+Non-trainable params: 0
+_________________________________________________________________
+
+ None
+
+ lxxsampleSize:1440
+condition:[fbrain_data_classify2_classify]
+[agentModelName]: CNN1
+[MEMORY_LIMIT]: 500000
+[VALUE_TEST]: 0.1
+[training_steps]: 10
+[GAMMA]: 0.3
+[BATCH_SIZE]: 16
+[running-condition]:brain_data_classify
+[dataset]:./data/gmwm3D
+[testmode]:test
+
+ [[159   0]
+ [128   0]]
+              precision    recall  f1-score   support
+
+         0.0       0.55      1.00      0.71       159
+         1.0       0.00      0.00      0.00       128
+
+    accuracy                           0.55       287
+   macro avg       0.28      0.50      0.36       287
+weighted avg       0.31      0.55      0.40       287
+

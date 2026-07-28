@@ -1,0 +1,22 @@
+
+[YOUTUBE-clips]:
+https://www.youtube.com/watch?v=qJeaCHQ1k2w
+
+https://www.youtube.com/watch?v=JoR5HCs0n0s&t=2750s (autoencoder with python)
+https://www.youtube.com/watch?v=JoR5HCs0n0s&t=161s 
+
+
+https://www.youtube.com/watch?v=PSOt7u8u23w
+(pca --> autoencoder) https://www.youtube.com/watch?v=PSOt7u8u23w
+(deep autoencoder) https://www.youtube.com/watch?v=PSOt7u8u23w
+
+
+[Lectures]:
+
+
+[DONE]:
+https://www.youtube.com/watch?v=LHEj842yOF4 (simmply explained -- !!!!!)
+
+
+
+

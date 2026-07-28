@@ -1,0 +1,178 @@
+Here is the detailed breakdown of your brain regions list, organized by major brain areas:
+
+Frontal Areas (Fro)
+TrFPoG/S - Transverse Frontopolar Gyrus/Sulcus
+
+FMarG/S - Frontomarginal Gyrus/Sulcus
+
+MFS - Middle Frontal Sulcus
+
+LOrS - Lateral Orbital Sulcus
+
+SbOrS - Suborbital Sulcus
+
+OrS - Orbital Sulcus
+
+RG - Rectus Gyrus
+
+InfFGOrp - Inferior Frontal Gyrus, Orbital Part
+
+MFG - Middle Frontal Gyrus
+
+OrG - Orbital Gyrus
+
+InfFGTrip - Inferior Frontal Gyrus, Triangular Part
+
+InfFS - Inferior Frontal Sulcus
+
+MedOrS - Medial Orbital Sulcus
+
+SupFG - Superior Frontal Gyrus
+
+SupFS - Superior Frontal Sulcus
+
+InfFGOpp - Inferior Frontal Gyrus, Opercular Part
+
+InfPrCS - Inferior Precentral Sulcus
+
+SupPrCS - Superior Precentral Sulcus
+
+PrCG - Precentral Gyrus
+
+SbCG/S - Subcentral Gyrus/Sulcus
+
+CS - Central Sulcus
+
+Insular Areas (Ins)
+ALSHorp - Anterior Limiting Sulcus, Horizontal Part
+
+ACirInS - Anterior Circular Insular Sulcus
+
+ALSVerp - Anterior Limiting Sulcus, Vertical Part
+
+ShoInG - Short Insular Gyrus
+
+SupCirInS - Superior Circular Insular Sulcus
+
+LoInG/CInS - Long Insular Gyrus/Central Insular Sulcus
+
+InfCirInS - Inferior Circular Insular Sulcus
+
+PosLS - Posterior Limiting Sulcus
+
+Limbic Areas (Lim)
+ACgG/S - Anterior Cingulate Gyrus/Sulcus
+
+MACgG/S - Middle Anterior Cingulate Gyrus/Sulcus
+
+SbCaG - Subcallosal Gyrus
+
+PerCaS - Pericallosal Sulcus
+
+MPosCgG/S - Middle Posterior Cingulate Gyrus/Sulcus
+
+CgSMarp - Cingulate Sulcus, Marginal Part
+
+PosDCgG - Posterior Dorsal Cingulate Gyrus
+
+PosVCgG - Posterior Ventral Cingulate Gyrus
+
+Temporal Areas (Tem)
+TPo - Temporal Pole
+
+PoPl - Planum Polare
+
+SupTGLp - Superior Temporal Gyrus, Lateral Part
+
+HG - Heschl's Gyrus
+
+ATrCoS - Anterior Transverse Collateral Sulcus
+
+TrTS - Transverse Temporal Sulcus
+
+MTG - Middle Temporal Gyrus
+
+TPl - Planum Temporale
+
+InfTG - Inferior Temporal Gyrus
+
+InfTS - Inferior Temporal Sulcus
+
+SupTS - Superior Temporal Sulcus
+
+Parietal Areas (Par)
+PosCG - Postcentral Gyrus
+
+SuMarG - Supramarginal Gyrus
+
+PaCL/S - Paracentral Lobule/Sulcus
+
+PosCS - Postcentral Sulcus
+
+JS - Jensen's Sulcus
+
+SbPS - Subparietal Sulcus
+
+IntPS/TrPS - Intraparietal Sulcus/Transverse Parietal Sulcus
+
+SupPL - Superior Parietal Lobule
+
+PrCun - Precuneus
+
+AngG - Angular Gyrus
+
+POcS - Parieto-Occipital Sulcus
+
+Occipital Areas (Occ)
+PaHipG - Parahippocampal Gyrus
+
+CoS/LinS - Collateral Sulcus/Lingual Sulcus
+
+LOcTS - Lateral Occipitotemporal Sulcus
+
+FuG - Fusiform Gyrus
+
+CcS - Calcarine Sulcus
+
+LinG - Lingual Gyrus
+
+AOcS - Anterior Occipital Sulcus
+
+InfOcG/S - Inferior Occipital Gyrus/Sulcus
+
+SupOcS/TrOcS - Superior Occipital Sulcus/Transverse Occipital Sulcus
+
+PosTrCoS - Posterior Transverse Collateral Sulcus
+
+Cun - Cuneus
+
+MOcG - Middle Occipital Gyrus
+
+MOcS/LuS - Middle Occipital Sulcus/Lunate Sulcus
+
+SupOcG - Superior Occipital Gyrus
+
+OcPo - Occipital Pole
+
+Subcortical Areas (SbC)
+Pu - Putamen
+
+Pal - Pallidum
+
+CaN - Caudate Nucleus
+
+NAcc - Nucleus Accumbens
+
+Amg - Amygdala
+
+Tha - Thalamus
+
+Hip - Hippocampus
+
+Cerebellar Areas (CeB)
+CeB - Cerebellum
+
+Brainstem Areas (BSt)
+BSt - Brainstem
+
+Your list includes bilateral (left and right) representations of all cortical and subcortical structures, totaling 165 brain regions (F1-F165).

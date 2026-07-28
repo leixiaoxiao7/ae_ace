@@ -1,0 +1,17 @@
+
+[python-rl-to-runThrough]:
+- python 3.9.7
+- tensorflow/keras: 2.9
+- keras-rl2
+
+
+[python-Deep neral network - runThrough]:
+- python 3.12.11
+- tensorflow: 2.16.2
+- keras: 2.11.3
+
+
+
+
+[reinforcement-learning]:
+- https://www.youtube.com/watch?v=Mut_u40Sqz4
