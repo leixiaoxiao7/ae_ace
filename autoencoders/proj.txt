@@ -10,9 +10,15 @@ https://www.youtube.com/watch?v=PSOt7u8u23w
 (pca --> autoencoder) https://www.youtube.com/watch?v=PSOt7u8u23w
 (deep autoencoder) https://www.youtube.com/watch?v=PSOt7u8u23w
 
+LSTM-autoencoder: https://www.youtube.com/watch?v=6S2v7G-OupA
+
 
 [Lectures]:
+https://www.youtube.com/watch?v=D9HjlqIrB-c&list=PLZsOBAyNTZwb-uK_a6ywrU3t0hy80G5QP
+(DONE:
 
+
+)
 
 [DONE]:
 https://www.youtube.com/watch?v=LHEj842yOF4 (simmply explained -- !!!!!)
