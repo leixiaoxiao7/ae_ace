@@ -3,7 +3,7 @@
 https://www.youtube.com/watch?v=qJeaCHQ1k2w
 
 https://www.youtube.com/watch?v=JoR5HCs0n0s&t=2750s (autoencoder with python)
-https://www.youtube.com/watch?v=JoR5HCs0n0s&t=161s 
+https://www.youtube.com/watch?v=JoR5HCs0n0s&t=161s
 
 
 https://www.youtube.com/watch?v=PSOt7u8u23w
@@ -15,14 +15,10 @@ LSTM-autoencoder: https://www.youtube.com/watch?v=6S2v7G-OupA
 
 [Lectures]:
 https://www.youtube.com/watch?v=D9HjlqIrB-c&list=PLZsOBAyNTZwb-uK_a6ywrU3t0hy80G5QP
-(DONE:
+(DONE:1, 2,
 
 
 )
 
 [DONE]:
 https://www.youtube.com/watch?v=LHEj842yOF4 (simmply explained -- !!!!!)
-
-
-
-
