@@ -15,7 +15,7 @@ LSTM-autoencoder: https://www.youtube.com/watch?v=6S2v7G-OupA
 
 [Lectures]:
 https://www.youtube.com/watch?v=D9HjlqIrB-c&list=PLZsOBAyNTZwb-uK_a6ywrU3t0hy80G5QP
-(DONE:1, 2,
+(DONE: 84, 85, 86, 87, 88
 
 
 )
